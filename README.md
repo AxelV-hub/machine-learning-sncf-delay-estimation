@@ -1,6 +1,12 @@
 # Retard SNCF TD1
 
 
+Les noms des notebooks correspondent aux parties du rapport.
+
+
+
+
+
 
 ## Getting started
 
